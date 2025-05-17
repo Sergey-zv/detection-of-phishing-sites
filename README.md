@@ -1,8 +1,6 @@
 # detection-of-phishing-sites
 
-Detection of Phishing Sites | Colab Notebook
-
-https://colab.research.google.com/drive/1VwAyAWwm7JsPkE6sCV5dNHLhHHixEi8B?usp=sharing
+Detection of Phishing Sites 
 
 Проект: Мультимодальная нейросетевая модель для детекции фишинговых сайтов
 
